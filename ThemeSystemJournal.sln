@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeSystemFunctions", "ThemeSystemFunctions\ThemeSystemFunctions.csproj", "{DB521834-54F9-4209-B3B6-AC03B23BFCF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB521834-54F9-4209-B3B6-AC03B23BFCF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB521834-54F9-4209-B3B6-AC03B23BFCF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB521834-54F9-4209-B3B6-AC03B23BFCF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB521834-54F9-4209-B3B6-AC03B23BFCF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B53B253-5A7B-49FF-8F36-AE00363B12F9}
+	EndGlobalSection
+EndGlobal
